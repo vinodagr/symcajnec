@@ -2,7 +2,7 @@ public class Demo
   {
     public static void main(String args[])
     {
-     System.out.println("Hello world jnec  aurangabad   abcd  bjk  ggd dgm  dg");
+     System.out.println("mgm university");
     }
 
 
