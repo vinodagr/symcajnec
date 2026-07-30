@@ -2,7 +2,7 @@ public class Demo
   {
     public static void main(String args[])
     {
-     System.out.println("mgm jnec mca dept CSN...");
+     System.out.println("mgm jnec mca dept CSN... gegere  r r rurr ");
     }
 
 
